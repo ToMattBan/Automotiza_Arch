@@ -1,4 +1,4 @@
 #/bin/bash
 
 # Ferramentas
-sh ./reflector.sh
+sh ./scripts/reflector.sh
